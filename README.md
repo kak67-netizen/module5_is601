@@ -79,7 +79,7 @@ The Memento pattern stores previous history states, allowing the user to undo an
 Clone the repository and enter the project directory:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/kak67-netizen/module5_is601.git
 cd module5_is601
 ```
 
